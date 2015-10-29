@@ -1,0 +1,22 @@
+#! /bin/sh
+
+# https://developers.eveonline.com/resource/image-export-collection
+# https://developers.eveonline.com/resource/static-data-export
+
+# Carnyx 1.0 release
+wget -c http://content.eveonline.com/data/Carnyx_1.0_Icons.zip
+wget -c http://content.eveonline.com/data/Carnyx_1.0_Renders.zip
+wget -c http://content.eveonline.com/data/Carnyx_1.0_Types.zip
+wget -c http://cdn1.eveonline.com/data/Carnyx_1.0_113321_db.zip
+
+# Aegis 1.2 release
+wget -c http://content.eveonline.com/data/Aegis_1.2_Icons.zip
+wget -c http://content.eveonline.com/data/Aegis_1.2_Renders.zip
+wget -c http://content.eveonline.com/data/Aegis_1.2_Types.zip
+wget -c http://cdn1.eveonline.com/data/Aegis_1.2_114300_db.zip
+
+# Vanguard 1.0 (current)
+wget -c http://content.eveonline.com/data/Parallax_1.0_Icons.zip
+wget -c http://content.eveonline.com/data/Parallax_1.0_Renders.zip
+wget -c http://content.eveonline.com/data/Parallax_1.0_Types.zip
+wget -c http://cdn1.eveonline.com/data/Vanguard_1.0_114986_db.zip
