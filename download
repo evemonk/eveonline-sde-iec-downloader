@@ -45,7 +45,7 @@ wget -c http://content.eveonline.com/data/EVE_14.02_1.0_Types.zip
 wget -c http://cdn1.eveonline.com/data/YC-118-2_1.0_116998.zip
 
 # YC-118-3 1.0 (current) release
-wget -c http://cdn1.eveonline.com/data/YC-118-2_1.0_116998.zip
+wget -c http://cdn1.eveonline.com/data/YC-118-3_1.0_116998.zip
 wget -c http://content.eveonline.com/data/YC-118-3_1.0_Icons.zip
 wget -c http://content.eveonline.com/data/YC-118-3_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/YC-118-3_1.0_Types.zip
