@@ -44,8 +44,16 @@ wget -c http://content.eveonline.com/data/EVE_14.02_1.0_Types.zip
 
 wget -c http://cdn1.eveonline.com/data/YC-118-2_1.0_116998.zip
 
-# YC-118-3 1.0 (current) release
+# YC-118-3 1.0 release
 wget -c http://cdn1.eveonline.com/data/YC-118-3_1.0_116998.zip
 wget -c http://content.eveonline.com/data/YC-118-3_1.0_Icons.zip
 wget -c http://content.eveonline.com/data/YC-118-3_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/YC-118-3_1.0_Types.zip
+
+# Citadel 1.1 (current) release
+wget -c http://content.eveonline.com/data/Citadel_1.1_Icons.zip
+wget -c http://content.eveonline.com/data/Citadel_1.1_Renders.zip
+wget -c http://content.eveonline.com/data/Citadel_1.1_Types.zip
+
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20160429-TRANQUILITY.zip
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20160429-TRANQUILITY-legacy.zip
