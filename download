@@ -74,7 +74,7 @@ wget -c http://content.eveonline.com/data/YC-118-7_1.0_Types.zip
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20160809-TRANQUILITY.zip
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20160809-TRANQUILITY-legacy.zip
 
-# YC-118-8 1.0 (current) release
+# YC-118-8 1.0 release
 wget -c http://content.eveonline.com/data/YC-118-8_1.0_Icons.zip
 wget -c http://content.eveonline.com/data/YC-118-8_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/YC-118-8_1.0_Types.zip
@@ -82,3 +82,7 @@ wget -c http://content.eveonline.com/data/YC-118-8_1.0_Types.zip
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20160912-TRANQUILITY.zip
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20160912-TRANQUILITY-legacy.zip
 
+# YC-118-9 1.0 (current) release
+wget -c http://content.eveonline.com/data/YC-118-9_1.0_Icons.zip
+wget -c http://content.eveonline.com/data/YC-118-9_1.0_Renders.zip
+wget -c http://content.eveonline.com/data/YC-118-9_1.0_Types.zip
