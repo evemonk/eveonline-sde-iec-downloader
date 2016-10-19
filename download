@@ -88,3 +88,6 @@ wget -c http://content.eveonline.com/data/YC-118-9_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/YC-118-9_1.0_Types.zip
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20161011-TRANQUILITY.zip
+
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20161019-TRANQUILITY.zip
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20161019-TRANQUILITY-legacy.zip
