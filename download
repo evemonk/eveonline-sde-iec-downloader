@@ -91,3 +91,5 @@ wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20161011-TRANQUILITY
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20161019-TRANQUILITY.zip
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20161019-TRANQUILITY-legacy.zip
+
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20161114-TRANQUILITY.zip
