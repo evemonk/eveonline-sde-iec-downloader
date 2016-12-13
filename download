@@ -98,3 +98,6 @@ wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20161114-TRANQUILITY
 wget -c http://content.eveonline.com/data/YC-118-10_1.0_Icons.zip
 wget -c http://content.eveonline.com/data/YC-118-10_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/YC-118-10_1.0_Types.zip
+
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20161213-TRANQUILITY.zip
+
