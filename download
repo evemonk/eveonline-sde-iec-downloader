@@ -111,3 +111,4 @@ wget -c http://content.eveonline.com/data/YC-119-1_1.0_Icons.zip
 wget -c http://content.eveonline.com/data/YC-119-1_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/YC-119-1_1.0_Types.zip
 
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20170112-TRANQUILITY.zip
