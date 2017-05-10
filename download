@@ -129,3 +129,5 @@ wget -c http://content.eveonline.com/data/YC-119-3_1.0_Types.zip
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20170330-TRANQUILITY.zip
 
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20170509-TRANQUILITY.zip
+
