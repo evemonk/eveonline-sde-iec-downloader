@@ -131,10 +131,14 @@ wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20170330-TRANQUILITY
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20170509-TRANQUILITY.zip
 
-# YC-119.5 1.0 (current) release
+# YC-119.5 1.0 release
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20170522-TRANQUILITY.zip
 
 wget -c http://content.eveonline.com/data/YC-119.5-1.0_Icons.zip
 wget -c http://content.eveonline.com/data/YC-119.5-1.0_Renders.zip
 wget -c http://content.eveonline.com/data/YC-119.5-1.0_Types.zip
 
+# YC-119.5 1.1 (current) release
+wget -c http://content.eveonline.com/data/YC-119.5-1.1_Icons.zip
+wget -c http://content.eveonline.com/data/YC-119.5-1.1_Renders.zip
+wget -c http://content.eveonline.com/data/YC-119.5-1.1_Types.zip
