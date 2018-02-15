@@ -176,7 +176,7 @@ wget -c http://content.eveonline.com/data/Lifeblood_1.0_Types.zip
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20171024-TRANQUILITY.zip
 
-# Arms Race 1.0 (current) release
+# Arms Race 1.0 release
 wget -c http://content.eveonline.com/data/ArmsRace_1.0_Icons.zip
 wget -c http://content.eveonline.com/data/ArmsRace_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/ArmsRace_1.0_Types.zip
@@ -184,4 +184,11 @@ wget -c http://content.eveonline.com/data/ArmsRace_1.0_Types.zip
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20171205-TRANQUILITY.zip
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20180110-TRANQUILITY.zip
+
+# February 2018 1.0 (current) release
+wget -c http://content.eveonline.com/data/February2018Release_1.0_Icons.zip
+wget -c http://content.eveonline.com/data/February2018Release_1.0_Renders.zip
+wget -c http://content.eveonline.com/data/February2018Release_1.0_Types.zip
+
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20180214-TRANQUILITY.zip
 
