@@ -199,3 +199,5 @@ wget -c http://content.eveonline.com/data/March2018Release_1.0_Types.zip
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20180323-TRANQUILITY.zip
 
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20180508-TRANQUILITY.zip
+
