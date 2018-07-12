@@ -201,10 +201,14 @@ wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20180323-TRANQUILITY
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20180508-TRANQUILITY.zip
 
-# Into The Abyss 1.0 (current) release
+# Into The Abyss 1.0 release
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20180529-TRANQUILITY.zip
 
 wget -c http://content.eveonline.com/data/Into_The_Abyss_1.0_Icons.zip
 wget -c http://content.eveonline.com/data/Into_The_Abyss_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/Into_The_Abyss_1.0_Types.zip
 
+# July 2018 (current) release
+wget -c http://content.eveonline.com/data/July_Release_2018_Icons.zip
+wget -c http://content.eveonline.com/data/July_Release_2018_Renders.zip
+wget -c http://content.eveonline.com/data/July_Release_2018_Types.zip
