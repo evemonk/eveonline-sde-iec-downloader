@@ -222,10 +222,17 @@ wget -c http://content.eveonline.com/data/August_Release_2018_1.0_Types.zip
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20180827-TRANQUILITY.zip
 
-# September 2018 1.0 (current) release
+# September 2018 1.0 release
 wget -c http://content.eveonline.com/data/September_Release_2018_1.0_Icons.zip
 wget -c http://content.eveonline.com/data/September_Release_2018_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/September_Release_2018_1.0_Types.zip
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20180917-TRANQUILITY.zip
+
+# October 2018 1.0 (current) release
+wget -c http://content.eveonline.com/data/October_Release_2018_1.0_Icons.zip
+wget -c http://content.eveonline.com/data/October_Release_2018_1.0_Renders.zip
+wget -c http://content.eveonline.com/data/October_Release_2018_1.0_Types.zip
+
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20181009-TRANQUILITY.zip
 
