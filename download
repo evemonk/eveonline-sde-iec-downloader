@@ -245,10 +245,17 @@ wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20181009-TRANQUILITY
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20181113-TRANQUILITY.zip
 
-# December 2018 1.0 (current) release
+# December 2018 1.0 release
 wget -c http://content.eveonline.com/data/December_Release_2018_1.0_Icons.zip
 wget -c http://content.eveonline.com/data/December_Release_2018_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/December_Release_2018_1.0_Types.zip
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20181214-TRANQUILITY.zip
+
+# January 2019 1.0 (current) release
+wget -c http://content.eveonline.com/data/January2019Release_1.0_Icons.zip
+wget -c http://content.eveonline.com/data/January2019Release_1.0_Renders.zip
+wget -c http://content.eveonline.com/data/January2019Release_1.0_Types.zip
+
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20190117-TRANQUILITY.zip
 
