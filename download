@@ -261,8 +261,13 @@ wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20190117-TRANQUILITY
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20190219-TRANQUILITY.zip
 
-# March 2019 1.0 (current) release
+# March 2019 1.0 release
 wget -c http://content.eveonline.com/data/March2019Release_1.0_Icons.zip
 wget -c http://content.eveonline.com/data/March2019Release_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/March2019Release_1.0_Types.zip
+
+# April 2019 1.0 (current) release
+wget -c http://content.eveonline.com/data/April2019Release_1.0_Icons.zip
+wget -c http://content.eveonline.com/data/April2019Release_1.0_Renders.zip
+wget -c http://content.eveonline.com/data/April2019Release_1.0_Types.zip
 
