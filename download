@@ -266,10 +266,15 @@ wget -c http://content.eveonline.com/data/March2019Release_1.0_Icons.zip
 wget -c http://content.eveonline.com/data/March2019Release_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/March2019Release_1.0_Types.zip
 
-# April 2019 1.0 (current) release
+# April 2019 1.0 release
 wget -c http://content.eveonline.com/data/April2019Release_1.0_Icons.zip
 wget -c http://content.eveonline.com/data/April2019Release_1.0_Renders.zip
 wget -c http://content.eveonline.com/data/April2019Release_1.0_Types.zip
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20190516-TRANQUILITY.zip
+
+# Invasion 1.0 (2019) (current) release
+wget -c http://content.eveonline.com/data/Invasion_1.0_Icons.zip
+wget -c http://content.eveonline.com/data/Invasion_1.0_Renders.zip
+wget -c http://content.eveonline.com/data/Invasion_1.0_Types.zip
 
