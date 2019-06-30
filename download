@@ -280,3 +280,5 @@ wget -c http://content.eveonline.com/data/Invasion_1.0_Types.zip
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20190618-TRANQUILITY.zip
 
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20190625-TRANQUILITY.zip
+
