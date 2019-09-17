@@ -283,3 +283,6 @@ wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20190618-TRANQUILITY
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20190625-TRANQUILITY.zip
 
 wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20190910-TRANQUILITY.zip
+
+wget -c https://cdn1.eveonline.com/data/sde/tranquility/sde-20190911-2-TRANQUILITY.zip
+
